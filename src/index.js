@@ -5,8 +5,8 @@ import { useEffect } from "react";
 import Ui from "./Ui";
 
 function App() {
-  const APP_ID = "b60a0e6e";
-  const APP_KEY = "7f049f3affd76c891f2b7fbef6068898	";
+  const APP_ID = "";
+  const APP_KEY = "";
   const [receipes, setReceipe] = useState([]);
   const [search, setSearch] = useState(" ");
   const [query, setQuery] = useState("banana");
